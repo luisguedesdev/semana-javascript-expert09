@@ -1,6 +1,6 @@
 {
     "primaryColor": "#23A267",
-    "chatbotName": "EW Academy AI Assistant",
+    "chatbotName": "Luis Guedes Dev AI Assistant",
     "buttonColor": "#1D7A4B",
     "backgroundColor": "#111e16",
     "headerColor": "#172a21",
@@ -10,7 +10,7 @@
     "botText": "#fff",
     "iconUrl": "./botData/avatar.webp",
     "botAvatar": "./botData/avatar.webp",
-    "welcomeBubble": "Olá! como podemos te ajudar hoje?",
-    "firstBotMessage": "Me conta, o que você quer saber sobre a EW Academy?",
+    "welcomeBubble": "Olá! Em que posso te ajudar hoje?",
+    "firstBotMessage": "Me conta, o que você quer saber sobre Luis Guedes Dev",
     "typingDelay": 0.5
 }
