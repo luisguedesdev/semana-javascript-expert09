@@ -23,6 +23,6 @@ export class PromptService {
       role: "user",
       content: text,
     });
-    return this.#session.prompt(this.#messages);
+    return this.#session.promptStreaming(this.#messages);
   }
 }
