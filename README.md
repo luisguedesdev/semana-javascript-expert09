@@ -1,4 +1,4 @@
-# 🤖 Chatbot Web 4.0 — IA 100% Offline no Navegador
+# 🤖 Chatbot Inteligente 100% Offline com Prompt API do Chrome
 
 **Chatbot Inteligente 100% Offline com Prompt API do Chrome**
 
@@ -20,10 +20,8 @@ _Suporte a multimodalidade depende da versão/flags do navegador._
 
 ## 🎥 Demo
 
-<img width="100%" src="./assets/preview.gif" alt="Preview do chatbot rodando 100% offline" />
 
-- **Live demo**: <!-- TODO: seu link do GitHub Pages / Vercel / Netlify -->
-- **Post de certificação (LinkedIn)**: <!-- TODO: link do seu post -->
+
 - **Repositório do projeto original / referência**: [Semana JS Expert 09 por Erick Wendel](https://github.com/ErickWendel/semana-javascript-expert09)
 
 ---
